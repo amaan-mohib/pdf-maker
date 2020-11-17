@@ -17,5 +17,5 @@ And finally, install [Markdown PDF](https://marketplace.visualstudio.com/items?i
 
 ## Links
 
-[Demo PDF](<../blob/master/1NT19IS012(Amaan-Mohib)_final.pdf>)
-[Demo md](<../blob/master/1NT19IS012(Amaan-Mohib)_final.md>)
+[Demo PDF](<../master/1NT19IS012(Amaan-Mohib)_final.pdf>)  
+[Demo md](<../master/1NT19IS012(Amaan-Mohib)_final.md>)

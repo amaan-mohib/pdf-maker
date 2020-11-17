@@ -1,0 +1,2 @@
+mdutils==1.3.0
+Pillow==8.0.1
